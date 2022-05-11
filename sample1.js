@@ -1,1 +1,3 @@
-console.log("hola mundo");
+if (true) {
+    console.log('hola mundo');
+}
